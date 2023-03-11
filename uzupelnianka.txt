@@ -1,4 +1,4 @@
-Wyjątki dzielimy na … które trzeba obsłużyć i … które można, ale nie trzeba obsłużyć.
+Wyjątki dzielimy na kontrolowane które trzeba obsłużyć i niekontrolowane które można, ale nie trzeba obsłużyć.
 
 Wyjątki niekontrolowane dziedziczą po klasie RuntimeException
 
